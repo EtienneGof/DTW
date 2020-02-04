@@ -3,7 +3,7 @@
 Scala (attempts of) implementations of :
 - DTW from [1]
 - FastDTW from [2]
-- DBA from [3] (inspired from python development from https://github.com/fpetitjean/DBA)
+- DBA from [3] (inspired from python code from https://github.com/fpetitjean/DBA)
 
 [1] Sakoe, H. (1971). Dynamic-programming approach to continuous speech recognition. In 1971 Proc. the International Congress of Acoustics, Budapest.
 
