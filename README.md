@@ -1,6 +1,6 @@
 # DTW
 
-Scala implementations of :
+Scala (attempts of) implementations of :
 - DTW from [1]
 - FastDTW from [2]
 - DBA from [3]
